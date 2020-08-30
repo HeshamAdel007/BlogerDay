@@ -4,7 +4,7 @@
 ## Description
 ![Version](https://img.shields.io/github/v/release/HeshamAdel007/BlogerDay?color=44cc11&label=Release&style=flat-square)
 ![Downloads](https://img.shields.io/github/downloads/HeshamAdel007/BlogerDay/total?color=44cc11&style=flat-square)
-![License](https://img.shields.io/github/license/HeshamAdel007/BlogerDay?color=44cc11&style=flat-square)
+![License](https://img.shields.io/github/license/HeshamAdel007/BlogerDay?color=44cc11&label=License&style=flat-square)
 
 #### BlogerDay - Web Projects Build By Laravel Framework 
 
