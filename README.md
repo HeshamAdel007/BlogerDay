@@ -2,8 +2,7 @@
 > Use Laravel v6.18.37
 
 ## Description
-![Build](https://img.shields.io/appveyor/build/HeshamAdel007/BlogerDay?color=44cc11&style=flat-square)
-![Version](https://img.shields.io/docker/v/HeshamAdel007/BlogerDay?color=44cc11&sort=date&style=flat-square)
+![Version](https://img.shields.io/github/v/release/HeshamAdel007/BlogerDay?color=44cc11&label=Release&style=flat-square)
 ![Downloads](https://img.shields.io/github/downloads/HeshamAdel007/BlogerDay/total?color=44cc11&style=flat-square)
 ![License](https://img.shields.io/github/license/HeshamAdel007/BlogerDay?color=44cc11&style=flat-square)
 
@@ -135,6 +134,13 @@ View::composer([
 - **[Intervention Image ](http://image.intervention.io/)** [ v2.5.1 ]
 
 
-## 7. License
+
+## 7. Connect With Me
+
+
+[<img src="https://github.com/HeshamAdel007/HeshamAdel007/blob/master/Assets/Linkedin.svg" alt="Linkedin Logo" width="32">](https://in.linkedin.com/in/heshamadel000)  [<img src="https://github.com/HeshamAdel007/HeshamAdel007/blob/master/Assets/Twitter.svg" alt="Twitter Logo" width="32">](https://twitter.com/H_Adel5)  [<img src="https://github.com/HeshamAdel007/HeshamAdel007/blob/master/Assets/Instagram.svg" alt="instagram logo" width="32">](https://www.instagram.com/h_adel0/)  [<img src="https://cdn.svgporn.com/logos/github-icon.svg" alt="Github logo" width="34">](https://github.com/HeshamAdel007) [<img src="https://github.com/HeshamAdel007/HeshamAdel007/blob/master/Assets/fb.svg" alt="Facebook logo" height="32">](https://www.facebook.com/Hesham.H.Adel/) [<img src="https://github.com/HeshamAdel007/HeshamAdel007/blob/master/Assets/Gmail.svg" alt="Gmail logo" height="32">](mailto:heshamadel528@gmail.com)
+
+
+## 8. License
 
 The Project is open-sourced software licensed under the [MIT license](https://opensource.org/licenses/MIT).
